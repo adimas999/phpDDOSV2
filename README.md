@@ -52,7 +52,3 @@ run the DDOS Script
 Or
 > php tcp.php
 ```
-
-## DDOS
-DDoS class in CLI (command line input)<br />
-You need at least PHP-CLI installed
